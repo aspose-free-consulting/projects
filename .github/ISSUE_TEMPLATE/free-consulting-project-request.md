@@ -1,7 +1,7 @@
 ---
 name: Free Consulting Project Request
 about: Request a free consulting project. Do Not report a bug or feature request here.
-title: I want to create/build...
+title: 'I want to create/build '
 labels: ''
 assignees: ''
 
