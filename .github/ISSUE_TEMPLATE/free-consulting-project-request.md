@@ -1,6 +1,6 @@
 ---
 name: Free Consulting Project Request
-about: 'Request a free consulting project '
+about: Request a free consulting project. Do Not report a bug or feature request here.
 title: ''
 labels: ''
 assignees: ''
@@ -14,6 +14,8 @@ Please check if it satisfies the following requirements:
 * It takes 8 or less hours for us to complete
 * It is not a bug
 * It is not a feature request
+
+If your requirement is actually a bug in our APIs or a feature request for our APIs then please use our forum to report it and get quick help: https://forum.aspose.com/
 
 If all the above requirements are satisfied then please move on:
 
